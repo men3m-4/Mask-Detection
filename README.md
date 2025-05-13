@@ -1,7 +1,7 @@
 # Face Mask Detection System
 
 ## Overview
-This project implements a real-time face mask detection system using computer vision and deep learning. It leverages Convolutional Neural Networks (CNNs) to classify whether individuals are wearing face masks, utilizing webcam input for real-time detection. The project was developed under the supervision of Dr. Abdallan Mohamed Elramsisi.
+This project implements a real-time face mask detection system using computer vision and deep learning. It leverages Convolutional Neural Networks (CNNs) to classify whether individuals are wearing face masks, utilizing webcam input for real-time detection.
 
 ## Objective
 - Develop a system to detect face mask usage in real-time using computer vision and deep learning techniques.
